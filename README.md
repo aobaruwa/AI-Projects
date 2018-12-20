@@ -11,7 +11,7 @@ Have you ever wanted to make your text messages more expressive? Emojify will he
 <img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/faceDetect.png" height = "300" width="600">
 Transfer learning with a pretrained model to map faces into 128 dimensional encodings to perform face recognition and detection,
 
-Much of the ideas in this notebook came primarily from the following resources
+Much of the ideas in this notebook came primarily from the following resources.
 ### References:
 - Florian Schroff, Dmitry Kalenichenko, James Philbin (2015). [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832.pdf)
 - Yaniv Taigman, Ming Yang, Marc'Aurelio Ranzato, Lior Wolf (2014). [DeepFace: Closing the gap to human-level performance in face verification](https://research.fb.com/wp-content/uploads/2016/11/deepface-closing-the-gap-to-human-level-performance-in-face-verification.pdf) 
@@ -54,7 +54,8 @@ Classification of the Signs dataset
 ## 7. Text Generation
 <img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/textGen.png" height = "350" width="500">
 Generate shakespare's style of poems.
-### Refrences
+
+### Refrences:
 - This exercise took inspiration from Andrej Karpathy's implementation: https://gist.github.com/karpathy/d4dee566867f8291f086. To learn more about text generation, also check out Karpathy's [blog post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/).
 - For the Shakespearian poem generator, the implementation was based on the implementation of an LSTM text generator by the Keras team: https://github.com/keras-team/keras/blob/master/examples/lstm_text_generation.py 
 
