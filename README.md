@@ -1,6 +1,8 @@
-# TensorFlow-Projects     <img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/emojify.png" width="48">)
+# TensorFlow-Projects     <img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/emojify.png" width="70">
+
 ## Emojify
-![](../master/Pix/emojify.png| width=40)
+<img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/emojify.png" width="100">
+
 This is a model that uses word vector representations to build an Emojifier!
 
 Have you ever wanted to make your text messages more expressive? Emojify will help you do that. So rather than writing "Congratulations on the promotion! Lets get coffee and talk. Love you!" the emojifier can automatically turn this into "Congratulations on the promotion! 👍 Lets get coffee and talk. ☕️ Love you! ❤️"
