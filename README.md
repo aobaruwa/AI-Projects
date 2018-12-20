@@ -24,7 +24,7 @@ Have you ever wanted to make your text messages more expressive? Emojify will he
 <img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/signs_data_kiank1.png" height = "200" width="500">
 
 ## 7. Text Generation
-<img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/emojify.png" height = "200" width="500">
+<img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/textGen.png" height = "200" width="500">
 
 ## 8. Trigger word Detection
 <img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/TriggerWG.png" height = "300" width="600">
