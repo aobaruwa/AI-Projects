@@ -9,7 +9,7 @@ Have you ever wanted to make your text messages more expressive? Emojify will he
 
 ## 2. Face Recognition and Detection
 <img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/faceDetect.png" height = "300" width="600">
-Transfer learning with a pretrained model to map faces into 128 dimensional encodings to perform face recognition and detection,
+Transfer learning with a pretrained model to map faces into 128 dimensional encodings to perform face recognition and detection.
 
 Much of the ideas in this notebook came primarily from the following resources.
 ### References:
