@@ -18,7 +18,7 @@ Have you ever wanted to make your text messages more expressive? Emojify will he
 <img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/nmt with attention.png" height = "400" width="500">
 
 ## 5. Neural Style Tranfer
-<img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/nst.png" height = "400" width="500">
+<img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/nst.png" height = "200" width="700">
 
 ## 6. Signs Recognition
 <img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/signs_data_kiank1.png" height = "200" width="500">
