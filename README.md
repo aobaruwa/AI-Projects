@@ -1,7 +1,7 @@
-# TensorFlow-Projects     <img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/tf.png" height = "50" width="175">
+# TensorFlow-Projects     <img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/tf.png" height = "10" width="175">
 
 ## Emojify
-<img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/emojify.png" width="750">
+<img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/emojify.png" height = "300" width="750">
 
 This is a model that uses word vector representations with an LSTM to build an Emojifier!
 
