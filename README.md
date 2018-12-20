@@ -31,21 +31,37 @@ The ideas in this notebook came primarily from three computational music papers 
 
 ## 4. NMT with attention
 <img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/nmt with attention.png" height = "400" width="500">
-
+Neural Machine Translation (NMT) model to translate human readable dates ("25th of June, 2009") into machine readable dates ("2009-06-25").
 
 ## 5. Neural Style Tranfer
 <img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/nst.png" height = "350" width="700">
+ Optimize a cost function to get pixel values!
+ 
+### References:
+The Neural Style Transfer algorithm was due to Gatys et al. (2015). Harish Narayanan and Github user "log0" also have highly readable write-ups from which we drew inspiration. The pre-trained network used in this implementation is a VGG network, which is due to Simonyan and Zisserman (2015). Pre-trained weights were from the work of the MathConvNet team. 
+
+- Leon A. Gatys, Alexander S. Ecker, Matthias Bethge, (2015). A Neural Algorithm of Artistic Style (https://arxiv.org/abs/1508.06576) 
+- Harish Narayanan, Convolutional neural networks for artistic style transfer. https://harishnarayanan.org/writing/artistic-style-transfer/
+- Log0, TensorFlow Implementation of "A Neural Algorithm of Artistic Style". http://www.chioka.in/tensorflow-implementation-neural-algorithm-of-artistic-style
+- Karen Simonyan and Andrew Zisserman (2015). Very deep convolutional networks for large-scale image recognition (https://arxiv.org/pdf/1409.1556.pdf)
+- MatConvNet. http://www.vlfeat.org/matconvnet/pretrained/
+
 
 ## 6. Signs Recognition
 <img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/signs_data_kiank1.png" height = "200" width="500">
+Classification of the Signs dataset 
 
 ## 7. Text Generation
 <img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/textGen.png" height = "350" width="500">
+Generate shakespare's style of poems.
+### Refrences
+- This exercise took inspiration from Andrej Karpathy's implementation: https://gist.github.com/karpathy/d4dee566867f8291f086. To learn more about text generation, also check out Karpathy's [blog post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/).
+- For the Shakespearian poem generator, the implementation was based on the implementation of an LSTM text generator by the Keras team: https://github.com/keras-team/keras/blob/master/examples/lstm_text_generation.py 
 
 ## 8. Trigger word Detection
 <img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/TriggerWG.png" height = "300" width="600">
 Speech Recognition applied to trigger word detection ("Activate"). Similar to Google Speech Assistant, Alexa and Siri.
 
-#### Structure a speech recognition project
-#### Synthesize and process audio recordings to create train/dev datasets
-#### Train a trigger word detection model and make predictions
+- Structuring a speech recognition project
+- Synthesizing and processing audio recordings to create train/dev datasets
+- Training a trigger word detection model and make predictions
