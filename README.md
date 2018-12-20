@@ -8,7 +8,7 @@ This is a model that uses word vector representations with an LSTM to build an E
 Have you ever wanted to make your text messages more expressive? Emojify will help you do that. So rather than writing "Congratulations on the promotion! Lets get coffee and talk. Love you!" the emojifier can automatically turn this into "Congratulations on the promotion! 👍 Lets get coffee and talk. ☕️ Love you! ❤️"
 
 ## 2. Face Recognition and Detection
-<img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/DeepFace.png" height = "400" width="500">
+<img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/DeepFace.png" height = "400" width="750">
 
 
 ## 3. Music Generation 
@@ -27,4 +27,4 @@ Have you ever wanted to make your text messages more expressive? Emojify will he
 <img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/emojify.png" height = "200" width="500">
 
 ## 8. Trigger word Detection
-<img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/TriggerWord Detection.png" height = "300" width="600">
+<img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/TriggerWG.png" height = "300" width="600">
