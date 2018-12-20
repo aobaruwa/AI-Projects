@@ -44,3 +44,8 @@ The ideas in this notebook came primarily from three computational music papers 
 
 ## 8. Trigger word Detection
 <img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/TriggerWG.png" height = "300" width="600">
+Speech Recognition applied to trigger word detection ("Activate"). Similar to Google Speech Assistant, Alexa and Siri.
+
+#### Structure a speech recognition project
+#### Synthesize and process audio recordings to create train/dev datasets
+#### Train a trigger word detection model and make predictions
