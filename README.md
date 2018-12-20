@@ -1,4 +1,4 @@
-# TensorFlow-Projects     <img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/tf.png" height = "10" width="175">
+# TensorFlow-Projects     <img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/tf.png" height = "25" width="85">
 
 ## Emojify
 <img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/emojify.png" height = "300" width="750">
