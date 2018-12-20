@@ -1,7 +1,7 @@
-# TensorFlow-Projects     <img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/tf.png" width="700">
+# TensorFlow-Projects     <img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/tf.png" width="175">
 
 ## Emojify
-<img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/emojify.png" width="1000">
+<img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/emojify.png" width="750">
 
 This is a model that uses word vector representations to build an Emojifier!
 
