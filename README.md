@@ -13,6 +13,12 @@ Have you ever wanted to make your text messages more expressive? Emojify will he
 
 ## 3. Music Generation 
 <img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/music_sampling.jpg" height = "250" width="900">
+The ideas in this notebook came primarily from three computational music papers cited below. The implementation here also took significant inspiration and used many components from Ji-Sung Kim's github repository.
+
+- Ji-Sung Kim, 2016, [deepjazz](https://github.com/jisungk/deepjazz)
+- Jon Gillick, Kevin Tang and Robert Keller, 2009. [Learning Jazz Grammars](http://ai.stanford.edu/~kdtang/papers/smc09-jazzgrammar.pdf)
+- Robert Keller and David Morrison, 2007, [A Grammatical Approach to Automatic Improvisation](http://smc07.uoa.gr/SMC07%20Proceedings/SMC07%20Paper%2055.pdf)
+- François Pachet, 1999, [Surprising Harmonies](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.5.7473&rep=rep1&type=pdf)
 
 ## 4. NMT with attention
 <img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/nmt with attention.png" height = "400" width="500">
