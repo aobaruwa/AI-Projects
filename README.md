@@ -12,7 +12,7 @@ Have you ever wanted to make your text messages more expressive? Emojify will he
 
 
 ## 3. Music Generation 
-<img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/music_sampling.jpg" height = "400" width="500">
+<img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/music_sampling.jpg" height = "250" width="900">
 
 ## 4. NMT with attention
 <img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/nmt with attention.png" height = "400" width="500">
