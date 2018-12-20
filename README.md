@@ -2,7 +2,7 @@
 ## Emojify
 ![alt text](https://www.google.com.ng/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi6saP99K7fAhUSzIUKHVE0CNIQjRx6BAgBEAU&url=https%3A%2F%2Fwww.cnblogs.com%2Fhezhiyao%2Fp%2F8648127.html&psig=AOvVaw2QM41Z4i2rbXPP-c32Qpay&ust=1545412670050165)
 
-
+![](../master/Pix/emojify.png)
 This is a model that uses word vector representations to build an Emojifier!
 
 Have you ever wanted to make your text messages more expressive? Emojify will help you do that. So rather than writing "Congratulations on the promotion! Lets get coffee and talk. Love you!" the emojifier can automatically turn this into "Congratulations on the promotion! 👍 Lets get coffee and talk. ☕️ Love you! ❤️"
