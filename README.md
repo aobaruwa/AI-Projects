@@ -1,4 +1,5 @@
-# TensorFlow-Projects  ![](../master/Pix/tf.png)
+# TensorFlow-Projects  
+![](../master/Pix/tf.png)
 ## Emojify
 ![](../master/Pix/emojify.png)
 This is a model that uses word vector representations to build an Emojifier!
