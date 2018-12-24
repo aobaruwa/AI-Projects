@@ -2,6 +2,7 @@
 
 ## 1. Emojify
 <img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/emojify.png" height = "300" width="600">
+*src: Google Images
 
 This is a model that uses word vector representations with an LSTM to build an Emojifier!
 
