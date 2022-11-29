@@ -1,5 +1,4 @@
-# Some Fun AI-Projects     //<img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/tf.png" height = "25" width="85">
-
+# Some Fun AI-Projects    
 ## 1. Emojify
 <img src="https://github.com/aobaruwa/TensorFlow-Projects/blob/master/Pix/emojify.png" height = "300" width="600">
 
