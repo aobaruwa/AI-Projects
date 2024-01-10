@@ -65,3 +65,6 @@ Speech Recognition applied to trigger word detection ("Activate"). Similar to Go
 - Structuring a speech recognition project
 - Synthesizing and processing audio recordings to create train/dev datasets
 - Training a trigger word detection model and make predictions
+
+
+All the images used for illustration are Google Images.
